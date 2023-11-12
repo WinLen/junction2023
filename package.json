@@ -1,0 +1,24 @@
+{
+  "name": "hackaton",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "host": "vite --host --port 5173"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "@orillusion/core": "^0.7.0",
+    "@orillusion/effect": "^0.1.1",
+    "@orillusion/media-extention": "^0.3.3",
+    "@orillusion/particle": "^0.1.0",
+    "@orillusion/physics": "^0.2.1",
+    "@orillusion/stats": "^0.2.1"
+  }
+}
