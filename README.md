@@ -5,7 +5,7 @@ working on orillusion lib (Three.js based)
 
 
 HOW TO RUN:
-npm i
+npm i; 
 npm run host
 
 Yeah... that pretty much it. Idea was create a true penny pusher with realistic coins' physics but had enouth time only for this simple demonstrator. 
